@@ -41,12 +41,12 @@ body {
     CHALLENGE: change the background to one you like
     */
     
-    --background-image: var(--blood);
+    --background-image: var(--sunset);
     
     /*
     CHALLENGE: change the main color to one you like!
     */
-    --main-color: var(--snow);
+    --main-color: var(--blood);
     
      /* 
     CHALLENGE: change the font to one you think is cool
