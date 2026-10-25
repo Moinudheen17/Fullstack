@@ -16,3 +16,15 @@
     margin-left : auto;
     margin-right : auto;
 }
+
+button{
+    display: block;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right : 10px;
+    padding-bottom : 5px;
+    border: 1px solid #cfd9de;
+    border-radius:100px;
+    color: #0f1419;
+    font-weight: bold;
+}
