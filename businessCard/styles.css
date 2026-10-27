@@ -5,6 +5,7 @@ body {
     width:150px;    
 }
 .card{
+    display:flex;
     border: 2px dotted blue;
     padding:20px;
 }
