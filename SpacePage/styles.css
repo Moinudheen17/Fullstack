@@ -12,3 +12,7 @@ body {
     border: none;
     font-family: "Orbitron", sans-serif;
 }
+.cta {
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+}
