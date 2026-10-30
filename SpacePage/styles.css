@@ -1,21 +1,31 @@
 body {
-    color: white;
-    background-image: url("images/universe.jpg");
-    background-size: cover;
+    color: #82a5ca;
     text-align: center;
-    font-family: "Orbitron", sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
 }
-#Main-Logo{
-    width :150px;
+.hero{
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding:25px;
+}
+.term{
+    background-color : white;
+}
+
+#main-logo {
+    width: 100px;
 }
 
 .btn {
     padding: 6px 12px;
     background: white;
     border: none;
-    font-family: "Orbitron", sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    font-weight: 800;
 }
-.cta {
-    text-decoration: underline;
-    text-decoration-thickness: 5px;
+
+.underline {
+    border-bottom: 4px solid white;
 }
