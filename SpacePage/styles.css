@@ -9,6 +9,9 @@ body {
     background-size: cover;
     padding:25px;
 }
+h1{
+    text-shadow:0 0 4px black;
+}
 
 #main-logo {
     width: 100px;
