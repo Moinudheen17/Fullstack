@@ -5,6 +5,9 @@ body {
     text-align: center;
     font-family: "Orbitron", sans-serif;
 }
+#Main-Logo{
+    width :150px;
+}
 
 .btn {
     padding: 6px 12px;
