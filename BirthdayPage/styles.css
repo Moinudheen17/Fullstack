@@ -1,9 +1,12 @@
-body{
-    font-family: "Happy Monkey", system-ui;
+body {
+    color:#ffffff;
     text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background-color: #a2d2ff;
 }
-#photo{
-    width:300px;
-    border: 1px solid white;
+
+#bff-img {
+    width: 150px;
+    border: 5px solid #EFB0C9;
     border-radius: 50%;
 }
