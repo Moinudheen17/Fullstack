@@ -1,16 +1,24 @@
 body {
-    color:#ffffff;
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background-color: #a2d2ff;
-}
-.shadow{
-    text-shadow: 0 0 1px black;
+    background: #a2d2ff;
+    color: #ffffff;
 }
 
+#header{
+    text-shadow: 0 0 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
 
 #bff-img {
     width: 150px;
-    border: 5px solid #EFB0C9;
     border-radius: 50%;
+    border: 6px solid #EFB0C9;
+}
+
+h2, h4 {
+    background: #EFB0C9;
 }
