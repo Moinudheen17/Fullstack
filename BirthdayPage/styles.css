@@ -1,0 +1,9 @@
+body{
+    font-family: "Happy Monkey", system-ui;
+    text-align: center;
+}
+#photo{
+    width:300px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
