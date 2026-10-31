@@ -4,6 +4,10 @@ body {
     font-family: 'Happy Monkey', cursive;
     background-color: #a2d2ff;
 }
+.shadow{
+    text-shadow: 0 0 1px black;
+}
+
 
 #bff-img {
     width: 150px;
