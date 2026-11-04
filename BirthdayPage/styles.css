@@ -65,9 +65,18 @@ h1, h2, h3, h4, p {
 #gift-img-hot:hover {
     background-image: url("images/hot.gif");
 }
-#genius:hover {
+
+#gift-img-genius:hover {
     background-image: url("images/genius.gif");
 }
-#badass:hover {
+
+#gift-img-badass:hover {
     background-image: url("images/badass.gif");
+}
+#gift-img-cheers {
+    height:200px;
+}
+#gift-img-cheers:hover {
+    background-image: url("images/cheers.gif");
+    height: 200px;
 }
