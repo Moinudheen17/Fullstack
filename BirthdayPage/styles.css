@@ -48,17 +48,8 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-#gift-img1 {
-    margin: 0 auto;
-    width: 400px;
-    height: 400px;
-    border: 6px solid white;
-    border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
-    background-size: cover;
-}
-#gift-img2 {
-    margin: 0 auto;
+.gift-img {
+    margin: 20px auto;
     width: 400px;
     height: 400px;
     border: 6px solid white;
@@ -67,9 +58,16 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img1:hover {
+#gift-img-happy:hover {
     background-image: url("images/happy.gif");
 }
-#gift-img2:hover {
+
+#gift-img-hot:hover {
     background-image: url("images/hot.gif");
+}
+#genius:hover {
+    background-image: url("images/genius.gif");
+}
+#badass:hover {
+    background-image: url("images/badass.gif");
 }
