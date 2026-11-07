@@ -1,11 +1,5 @@
-let lapsCompleted = 0
-
-
-
-function increments(){
-    lapsCompleted= lapsCompleted + 1
+let count  = 0;
+function increment(){
+    count = count + 1
+    console.log(count)
 }
-increments()
-increments()
-increments()
-console.log(lapsCompleted)
