@@ -1,5 +1,4 @@
-let count = 0
 let myAge = 24
-
-console.log(count)
-console.log(myAge)
+let humanDogRatio = 7
+let myDogAge = myAge * humanDogRatio
+console.log(myDogAge)
