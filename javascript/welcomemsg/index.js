@@ -49,4 +49,29 @@ function buy(){
     error.textContent="Something went wrong, please try again" 
 }
 
+let num1 = 8
+let num2 = 2
+let sum =  "Sum: "
+document.getElementById("num1-el").textContent = num1
+document.getElementById("num2-el").textContent = num2
+
+// Create four functions: add(), subtract(), divide(), multiply()
+function add(){
+    sumEl=document.getElementById("sum-el")
+    sumEl.innerText = sum+(num1+num2)
+}
+function subtract(){
+    sumEl=document.getElementById("sum-el")
+    sumEl.innerText = sum+(num1-num2)
+}
+function divide(){
+    sumEl=document.getElementById("sum-el")
+    sumEl.innerText = sum+num1/num2
+}
+function multiply(){
+    sumEl=document.getElementById("sum-el")
+    sumEl.innerText = sum+num1*num2
+}
+// Cal
+
 
