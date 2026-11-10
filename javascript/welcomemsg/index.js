@@ -40,3 +40,13 @@ console.log("My points: " + 5 + 9) //My points: 59
 console.log(2 + 2) // 4
 console.log("11" + "14") // 1114
 
+
+// When the user clicks the purchase button, render out
+// "Something went wrong, please try again" in the paragraph
+// that has the id="error".
+errorEl=document.getElementById("error")
+function buy(){
+    error.textContent="Something went wrong, please try again" 
+}
+
+
