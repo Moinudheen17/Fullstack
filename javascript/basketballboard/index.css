@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    background:#1B244A;
+}
+
+.container {
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+.name{
+width: 149px;
+height: 36px;
+margin-top: 68px;
+
+font-family: Verdana;
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+line-height: 35.89px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 0;
+
+
+}
+.score{
+width: 145px;
+height: 120px;
+opacity: 1;
+margin-top: 15px;
+border-radius: 5px;
+background: #080001;
+align-items: center;
+
+
+
+color:#F94F6D;
+
+font-family: Cursed Timer ULiL;
+font-weight: 400px;
+font-style: Regular;
+font-size: 90px;
+
+line-height: 126.67px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 0;
+
+}
+
+.btn{
+    width: 45px;
+height: 45px;
+opacity: 1px;
+margin-top: 20px;
+
+border-radius: 5px;
+border-width: 2px;
+background: #1B244A;
+color:#9AABD8;
+
+
+}
+.buttons{
+    align-items: center;
+    text-align: center;
+    
+}
+.reset{
+    border:white;
+    background:red;
+    border-radius: 20%;
+    height: 70px;
+    width:80px;
+    margin-top: 350px;
+}
