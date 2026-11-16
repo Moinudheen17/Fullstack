@@ -1,4 +1,3 @@
-// 2. Create the player object. Give it two keys, name and chips, and set their values
 let player = {
     name:"moinu",
     chips:100
