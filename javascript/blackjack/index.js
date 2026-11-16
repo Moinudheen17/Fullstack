@@ -12,7 +12,6 @@ let sumEl = document.getElementById("sum-el")
 let cardsEl = document.getElementById("cards-el")
 let playerEl = document.getElementById("player-el")
 
-// 4. Render the player's name and chips in playerEl
 playerEl.textContent="User:"+player.name+" chips $"+player.chips
 
 function getRandomCard() {
